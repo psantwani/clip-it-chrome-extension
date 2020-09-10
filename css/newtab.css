@@ -1,0 +1,11 @@
+#clippings{
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;    
+}
+
+.card{
+    max-width: 50% !important;
+    padding: 20px;
+    border-radius: 10px !important;
+}
